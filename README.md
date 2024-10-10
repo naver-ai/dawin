@@ -16,5 +16,6 @@
 
 
 ### Updates
+* (2024/10/09): Our preprint has been accepted at [NeurIPS 2024 Workshop on Adaptive Foundation Models](https://adaptive-foundation-models.org/)🎉
 * (2024/10/03): Code is under internal review.
 * (2024/10/03): [Preprint](https://arxiv.org/abs/2404.09490) has been uploaded.
