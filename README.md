@@ -1,6 +1,6 @@
 ## [DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation](https://arxiv.org/abs/2410.03782)
 
-> [Changdae Oh<sup>1,2*<\sup>](https://changdaeoh.github.io/), [Sharon Li<sup>2<\sup>](https://pages.cs.wisc.edu/~sharonli/), [Kyungwoo Song<sup>3<\sup>&dagger;](https://gtshs2.github.io/), [Sangdoo Yun<sup>1<\sup>]&dagger;](https://sangdooyun.github.io/), [Dongyoon Han<sup>1<\sup>&dagger;](https://dongyoonhan.github.io/), <br>
+> [Changdae Oh<sup>1,2*](https://changdaeoh.github.io/), [Sharon Li<sup>2](https://pages.cs.wisc.edu/~sharonli/), [Kyungwoo Song<sup>3&dagger;](https://gtshs2.github.io/), [Sangdoo Yun<sup>1&dagger;](https://sangdooyun.github.io/), [Dongyoon Han<sup>1&dagger;](https://dongyoonhan.github.io/), <br>
 > <sup> <sup>*</sup> Work done during an internship at NAVER AI Lab, &dagger; corresponding authors </sup> <br>
 > <sup>1</sup>[NAVER AI LAB](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab), <sup>2</sup>[University of Wisconsin--Madison](https://www.wisc.edu/), <sup>3</sup>[Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
 
