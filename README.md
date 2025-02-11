@@ -1,8 +1,9 @@
 ## [DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation](https://arxiv.org/abs/2410.03782)
 
-> [Changdae Oh<sup>*](https://changdaeoh.github.io/), [Sharon Li](https://pages.cs.wisc.edu/~sharonli/), [Kyungwoo Song&dagger;](https://gtshs2.github.io/), [Sangdoo Yun&dagger;](https://sangdooyun.github.io/), [Dongyoon Han&dagger;](https://dongyoonhan.github.io/), <br>
+> [Changdae Oh<sup>1,2*<\sup>](https://changdaeoh.github.io/), [Sharon Li<sup>2<\sup>](https://pages.cs.wisc.edu/~sharonli/), [Kyungwoo Song<sup>3<\sup>&dagger;](https://gtshs2.github.io/), [Sangdoo Yun<sup>1<\sup>]&dagger;](https://sangdooyun.github.io/), [Dongyoon Han<sup>1<\sup>&dagger;](https://dongyoonhan.github.io/), <br>
 > <sup> <sup>*</sup> Work done during an internship at NAVER AI Lab, &dagger; corresponding authors </sup> <br>
-> [NAVER AI LAB](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab)
+> <sup>1</sup>[NAVER AI LAB](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab), <sup>2</sup>[University of Wisconsin--Madison](https://www.wisc.edu/), <sup>3</sup>[Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp)
+
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2410.03782)
 
@@ -16,6 +17,7 @@
 
 
 ### Updates
-* (2024/10/09): Our preprint has been accepted at [NeurIPS 2024 Workshop on Adaptive Foundation Models](https://adaptive-foundation-models.org/)🎉
+* (2025/01/22): Our manuscript has been accepted at ICLR 2025🎉🎉; Full code will be released very soon!
+* (2024/10/09): A short version of the preprint has been accepted at [NeurIPS 2024 Workshop on Adaptive Foundation Models](https://adaptive-foundation-models.org/)🎉
 * (2024/10/03): Code is under internal review.
 * (2024/10/03): [Preprint](https://arxiv.org/abs/2404.09490) has been uploaded.
