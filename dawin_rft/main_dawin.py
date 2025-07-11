@@ -12,8 +12,8 @@ from clip.model import convert_weights
 
 from utils import get_model_from_sd
 from utils import get_feats_logits_and_labels, compute_accuracy, compute_sample_loss_uncertainty_acc
-#from mixturemodel import BetaMixtureModel
-from mixturemodel_revised import BetaMixtureModel
+from mixturemodel import BetaMixtureModel
+#from mixturemodel_revised import BetaMixtureModel
 
 def interpolation(alpha, weight1, weight2):
     return {key: (1 - alpha) * weight1[key] + alpha * weight2[key] for key in weight1.keys()}
